@@ -39,6 +39,7 @@ public class TestMain {
 
 		byte[] bytes = Files.readAllBytes(Paths.get("D:/cdk/AES_256.iv"));
 
+		
 		return bytes;
 	}
 	
